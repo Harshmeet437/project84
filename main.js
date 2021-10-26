@@ -76,7 +76,7 @@ document.getElementById("d1").innerHTML = "You have pressed <span>Right</span> a
 
 function aplhabetkey()
 {
-	img_image="alpkey.png";
+	img_image="Alpkey.png";
 	add(); 
 
 }
